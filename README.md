@@ -18,6 +18,14 @@ O **FrontSubestacoes** é a interface moderna e interativa para gerenciar subest
 1. Clone o repositório:
    ```bash
    git clone https://github.com/Diego-Neri/FrontSubestacoes.git
+2. Instale as dependências:
+   ```bash
+   cd FrontSubestacoes
+   npm install
+3. Inicie o servidor de desenvolvimento::
+   ```bash
+     npm run serve
+   
 
 ## 💬 Como Contribuir
 Contribuições são bem-vindas! Abra uma issue ou envie um pull request.
